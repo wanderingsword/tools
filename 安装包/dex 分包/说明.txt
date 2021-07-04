@@ -1,0 +1,1 @@
+通过再 Android 工程的 build.gradle 中通过 “apply from: "splitdex.gradle"”

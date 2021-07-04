@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="xlcw:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/xlcw_jar</output-path>
+    <root id="archive" name="xlcw.jar">
+      <element id="module-output" name="xlcw" />
+    </root>
+  </artifact>
+</component>
